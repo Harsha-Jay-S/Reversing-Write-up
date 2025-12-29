@@ -2,6 +2,8 @@
 
 Completed this reversing Induction Assignment till the Decryptor and made a write-up on it
 
+Haven't done the binary patching , will be patched to this repo soon...
+
 Description of the assignment:
 # 🛡️ **Reverse Engineering – Induction Track 2**
 
